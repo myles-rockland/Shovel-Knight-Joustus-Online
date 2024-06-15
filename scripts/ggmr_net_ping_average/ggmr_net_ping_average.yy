@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_net_ping_average",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_net_ping_average",
+  "parent":{
+    "name":"GGMR_Net",
+    "path":"folders/[GGMR]/GGMR_Net.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

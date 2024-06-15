@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_crash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_crash",
+  "parent":{
+    "name":"[GGMR]",
+    "path":"folders/[GGMR].yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

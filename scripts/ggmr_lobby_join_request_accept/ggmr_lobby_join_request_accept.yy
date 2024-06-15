@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_lobby_join_request_accept",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_lobby_join_request_accept",
+  "parent":{
+    "name":"GGMR_Lobby",
+    "path":"folders/[GGMR]/GGMR_Lobby.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_session_frame_is_first_occurrence",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_session_frame_is_first_occurrence",
+  "parent":{
+    "name":"GGMR_Session",
+    "path":"folders/[GGMR]/GGMR_Session.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

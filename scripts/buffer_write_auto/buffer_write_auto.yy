@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"buffer_write_auto",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"buffer_write_auto",
+  "parent":{
+    "name":"Buffers",
+    "path":"folders/[GGMR]/Extra/Buffers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

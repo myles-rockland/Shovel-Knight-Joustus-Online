@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_error",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_error",
+  "parent":{
+    "name":"GGMR_Logger",
+    "path":"folders/[GGMR]/GGMR_Logger.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

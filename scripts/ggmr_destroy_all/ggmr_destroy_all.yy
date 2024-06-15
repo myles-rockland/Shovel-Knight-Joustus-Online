@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_destroy_all",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_destroy_all",
+  "parent":{
+    "name":"[GGMR]",
+    "path":"folders/[GGMR].yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"buffer_read_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"buffer_read_array",
+  "parent":{
+    "name":"Buffers",
+    "path":"folders/[GGMR]/Extra/Buffers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

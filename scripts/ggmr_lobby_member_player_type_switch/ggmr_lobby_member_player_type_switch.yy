@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_lobby_member_player_type_switch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_lobby_member_player_type_switch",
+  "parent":{
+    "name":"GGMR_Lobby",
+    "path":"folders/[GGMR]/GGMR_Lobby.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

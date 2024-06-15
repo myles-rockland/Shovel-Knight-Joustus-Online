@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sync_id_release",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sync_id_release",
+  "parent":{
+    "name":"Sync_ID_Scripts",
+    "path":"folders/[GGMR]/Extra/Sync_ID_Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

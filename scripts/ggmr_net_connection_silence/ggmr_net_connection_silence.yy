@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_net_connection_silence",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_net_connection_silence",
+  "parent":{
+    "name":"GGMR_Net",
+    "path":"folders/[GGMR]/GGMR_Net.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

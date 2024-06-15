@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_session_save_frame_find_local_mode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_session_save_frame_find_local_mode",
+  "parent":{
+    "name":"GGMR_Session",
+    "path":"folders/[GGMR]/GGMR_Session.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

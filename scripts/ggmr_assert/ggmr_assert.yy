@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ggmr_assert",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ggmr_assert",
+  "parent":{
+    "name":"[GGMR]",
+    "path":"folders/[GGMR].yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

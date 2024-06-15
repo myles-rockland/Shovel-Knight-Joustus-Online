@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"instance_save_all_vars",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"instance_save_all_vars",
+  "parent":{
+    "name":"Saving_And_Loading",
+    "path":"folders/[GGMR]/Extra/Saving_And_Loading.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

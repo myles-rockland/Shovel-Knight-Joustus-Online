@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"game_state_find_new_id",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"game_state_find_new_id",
+  "parent":{
+    "name":"Saving_And_Loading",
+    "path":"folders/[GGMR]/Extra/Saving_And_Loading.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
